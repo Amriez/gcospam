@@ -8,3 +8,4 @@ apt-get install figlet
 pip2 install requests
 pip2 install mechanize
 pkg install ruby
+gem install lolcat
